@@ -1,0 +1,10 @@
+C:\Users\Aiden\Documents\Managing Software Project\SalesRecord\bin\Debug\SalesRecord.exe.config
+C:\Users\Aiden\Documents\Managing Software Project\SalesRecord\bin\Debug\SalesRecord.exe
+C:\Users\Aiden\Documents\Managing Software Project\SalesRecord\bin\Debug\SalesRecord.pdb
+C:\Users\Aiden\Documents\Managing Software Project\SalesRecord\obj\Debug\SalesRecord.csprojAssemblyReference.cache
+C:\Users\Aiden\Documents\Managing Software Project\SalesRecord\obj\Debug\SalesRecord.Properties.Resources.resources
+C:\Users\Aiden\Documents\Managing Software Project\SalesRecord\obj\Debug\SalesRecord.csproj.GenerateResource.cache
+C:\Users\Aiden\Documents\Managing Software Project\SalesRecord\obj\Debug\SalesRecord.csproj.CoreCompileInputs.cache
+C:\Users\Aiden\Documents\Managing Software Project\SalesRecord\obj\Debug\SalesRecord.exe
+C:\Users\Aiden\Documents\Managing Software Project\SalesRecord\obj\Debug\SalesRecord.pdb
+C:\Users\Aiden\Documents\Managing Software Project\SalesRecord\obj\Debug\SalesRecord.SalesRecord.resources
